@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/california_housing/__init__.py
+src/california_housing.egg-info/PKG-INFO
+src/california_housing.egg-info/SOURCES.txt
+src/california_housing.egg-info/dependency_links.txt
+src/california_housing.egg-info/entry_points.txt
+src/california_housing.egg-info/requires.txt
+src/california_housing.egg-info/top_level.txt
+src/california_housing/preprocessing/preprocessor.py
+src/california_housing/utils/evaluation.py
+tests/test_preprocessor.py

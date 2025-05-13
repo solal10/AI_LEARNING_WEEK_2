@@ -1,0 +1,11 @@
+{
+    "random_state": 42,
+    "test_size": 0.2,
+    "handle_outliers": true,
+    "handle_skewness": true,
+    "model_params": {
+        "n_estimators": 100,
+        "max_depth": 10,
+        "min_samples_split": 2
+    }
+}
